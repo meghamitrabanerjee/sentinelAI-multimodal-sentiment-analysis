@@ -12,4 +12,5 @@ dataset/features/
 # Datasets and Temporary Files
 dataset/twitter_images/
 dataset/*.json
+!dataset/master_dataset_cleaned.json
 temp_image.jpg
