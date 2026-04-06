@@ -1,0 +1,15 @@
+# Virtual Environments and Python Cache
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Massive Model Weights (Hosted Externally)
+*.pth
+*.pt
+dataset/features/
+
+# Datasets and Temporary Files
+dataset/twitter_images/
+dataset/*.json
+temp_image.jpg
