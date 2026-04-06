@@ -1,4 +1,4 @@
-# 🌍 Multimodal Opinion Intelligence
+# 🌍 SentinelAI - Multimodal Sentiment Analysis
 
 An end-to-end Machine Learning architecture that analyzes the true sentiment of geopolitical discourse by fusing Computer Vision and Natural Language Processing.
 
